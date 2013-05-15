@@ -4,6 +4,7 @@
 ?>
 <div>premier ajout
 	<p>qqchose</p>
+	<p>N'aime pas IE8</p>
 </div>
 <div class="main_home">
 	<?php
