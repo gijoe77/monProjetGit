@@ -6,6 +6,11 @@
 <div>premier ajout
 	<p>qqchose</p>
 </div>
+
+<ul>
+		<li>Accueil</li>
+		<li>Contact</li>
+</ul>
 <div class="main_home">
 	<?php
 		/*
